@@ -1,0 +1,4 @@
+2025-04-04 12:54:43.104871 - Received CBT.V508.FILE625.PDS from FILE625.XMI 
+2025-04-04 12:54:43.105486 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE625.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:54:43.105654 - Found @FILE625.txt (text/plain) in CBT.V508.FILE625.PDS, moved to PDS/@FILE625
+2025-04-04 12:54:43.105830 - Found FIXCAT.rexx (text/plain) in CBT.V508.FILE625.PDS, moved to PDS/FIXCAT
